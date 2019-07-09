@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSconvert2dto1d\ARRAYSconvert2dto1d\obj\Debug\ARRAYSconvert2dto1d.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSconvert2dto1d\ARRAYSconvert2dto1d\obj\Debug\ARRAYSconvert2dto1d.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSconvert2dto1d\ARRAYSconvert2dto1d\bin\Debug\ARRAYSconvert2dto1d.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSconvert2dto1d\ARRAYSconvert2dto1d\bin\Debug\ARRAYSconvert2dto1d.exe
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSconvert2dto1d\ARRAYSconvert2dto1d\bin\Debug\ARRAYSconvert2dto1d.pdb
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSconvert2dto1d\ARRAYSconvert2dto1d\obj\Debug\ARRAYSconvert2dto1d.exe
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSconvert2dto1d\ARRAYSconvert2dto1d\obj\Debug\ARRAYSconvert2dto1d.pdb
